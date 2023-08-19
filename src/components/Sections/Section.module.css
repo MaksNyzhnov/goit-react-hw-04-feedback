@@ -1,0 +1,14 @@
+.section {
+  margin: 0 auto;
+  padding: 20px 15px;
+
+  max-width: 1200px;
+
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+.title {
+  line-height: 1.2;
+  font-size: 36px;
+}
